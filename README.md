@@ -50,10 +50,16 @@
   </ol>
 </details>
 
+## Project Video
+
+https://github.com/user-attachments/assets/8037b1ee-b416-457c-9ef6-9caade7c9d54
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Project Screenshot](images/screenshot.png)
+![project-image-1](https://github.com/user-attachments/assets/2e84d356-448b-4960-aba3-68db8da96df0)
+![project-image-2](https://github.com/user-attachments/assets/0eaa87dc-ddc8-4ff0-ad27-9e593920dfa8)
+
 
 This project aims to develop a lip reading system using deep learning techniques. It utilizes a 3D Convolutional Neural Network (CNN) combined with Bidirectional LSTM layers to process video data and convert lip movements into text. 
 
