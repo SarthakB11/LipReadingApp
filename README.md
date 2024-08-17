@@ -3,12 +3,13 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- PROJECT SHIELDS -->
+[![Contributors](https://img.shields.io/github/contributors/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/network/members)
+[![Stargazers](https://img.shields.io/github/stars/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/stargazers)
+[![Issues](https://img.shields.io/github/issues/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/issues)
+[![MIT License](https://img.shields.io/github/license/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/blob/master/LICENSE.txt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/sarthakbhardwaj1102)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -60,11 +61,11 @@ This project aims to develop a lip reading system using deep learning techniques
 
 ### Built With
 
-* [![TensorFlow][TensorFlow.js]][TensorFlow-url]
-* [![OpenCV][OpenCV.org]][OpenCV-url]
-* [![Streamlit][Streamlit]][Streamlit-url]
-* [![ImageIO][ImageIO]][ImageIO-url]
-* [![Matplotlib][Matplotlib]][Matplotlib-url]
+* [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)<br>
+* [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)<br>
+* [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)<br>
+* [![ImageIO](https://img.shields.io/badge/ImageIO-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY4IiBoZWlnaHQ9IjE2OCIgdmlld0JveD0iMCAwIDE2OCAxNjgiIHhtbG5zPSJodHRwOi8vd3d3LkFkdG9iZS5vcmcvbnMiIHhtbG5zPSJodHRwOi8vd3d3LkFkdG9iZS5vcmcvbnMiIGZpbGw9IiMwMDAwMDAiIGZpbGw9IiMwMDAwMDAiPjxnIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtY29sb3I9ImJsYWNrIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1kYXNoYXJyb3duZXNzPSIwIiBzdHJva2UtbGluZWNhcD0idXJsKDEpIj48cGF0aCBkPSJNMTUsMCBMNjAsNjAgTDE1LDE1IEwxNTAsMTUgTDE1MCwxNSBMNjAsMTAwIEwxMCwxMDAgTDE1LDE1MCBMMTUsMTUwIiBmaWxsPSIjRkZGIiBzdHJva2U9IiNGRkZGIiBzdHJva2UtbGluZWNhcD0idXJsKDEpIi8+L2c+PC9zdmc+)](https://imageio.github.io/)<br>
+* [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,10 +163,7 @@ Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/S
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
-[TensorFlow.js]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-[TensorFlow-url]: https://www.tensorflow.org/
-[OpenCV.org]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-[OpenCV-url]: https://opencv.org/
+
 [Streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
 [Streamlit-url]: https://streamlit.io/
 [ImageIO]: https://img.shields.io/badge/ImageIO-FF8C00?style=for-the-badge&logo=python&logoColor=white
