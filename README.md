@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SarthakB11/lip-reading-project">
+  <a href="https://github.com/SarthakB11/LipReadingApp">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,14 +22,14 @@
   <p align="center">
     A deep learning model for lip reading that uses 3D convolutional neural networks to process video data and predict spoken text.
     <br />
-    <a href="https://github.com/SarthakB11/lip-reading-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SarthakB11/LipReadingApp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SarthakB11/lip-reading-project">View Demo</a>
+    <a href="https://github.com/SarthakB11/LipReadingApp">View Demo</a>
     ·
-    <a href="https://github.com/SarthakB11/lip-reading-project/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/SarthakB11/LipReadingApp/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/SarthakB11/lip-reading-project/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SarthakB11/LipReadingApp/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
