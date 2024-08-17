@@ -196,7 +196,9 @@ Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/S
 * Matplotlib
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### References
+
 * https://arxiv.org/pdf/1611.01599
 <!-- MARKDOWN LINKS & IMAGES -->
 
