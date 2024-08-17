@@ -111,7 +111,7 @@ To get a local copy up and running, follow these steps:
 4. 
    ```sh
    !streamlit run app.py &
-  ```
+   ```
 runs the Streamlit app in the background.
 ```sh
 !npx localtunnel --port 8501
