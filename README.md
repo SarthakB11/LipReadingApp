@@ -56,6 +56,9 @@
 
 https://github.com/user-attachments/assets/8037b1ee-b416-457c-9ef6-9caade7c9d54
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -200,5 +203,8 @@ Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/S
 ### References
 
 * https://arxiv.org/pdf/1611.01599
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
