@@ -117,11 +117,15 @@ runs the Streamlit app in the background.
 !npx localtunnel --port 8501
 ```
 uses npx localtunnel to expose the locally running Streamlit app to the internet. 
+
 The app is hosted on port 8501, and localtunnel provides a public URL through which the app can be accessed.
+
 ![image](https://github.com/user-attachments/assets/cdb95a07-03c6-484d-8783-794a5b746e0c)
 
 5. Open the url link
-![Screenshot (212)](https://github.com/user-attachments/assets/d2155717-1c15-4dde-8b8c-b926f41ca8e7)
+   
+![url-image)](https://github.com/user-attachments/assets/d2155717-1c15-4dde-8b8c-b926f41ca8e7)
+
 Paste your IP address and submit.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ROADMAP -->
