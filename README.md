@@ -38,6 +38,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#project-video">Project Video</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
@@ -47,6 +48,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -194,5 +196,7 @@ Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/S
 * Matplotlib
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+### References
+* https://arxiv.org/pdf/1611.01599
 <!-- MARKDOWN LINKS & IMAGES -->
 
