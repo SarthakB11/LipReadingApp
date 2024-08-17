@@ -3,8 +3,8 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-<!-- PROJECT SHIELDS -->
 [![Contributors](https://img.shields.io/github/contributors/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/graphs/contributors)
+[![Commits](https://img.shields.io/github/commit-activity/m/SarthakB11/LipReadingApp.svg?style=for-the-badge)]([https://github.com/SarthakB11/LipReadingApp/commits/main])
 [![Forks](https://img.shields.io/github/forks/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/network/members)
 [![Stargazers](https://img.shields.io/github/stars/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/stargazers)
 [![Issues](https://img.shields.io/github/issues/SarthakB11/LipReadingApp.svg?style=for-the-badge)](https://github.com/SarthakB11/LipReadingApp/issues)
@@ -97,13 +97,35 @@ To get a local copy up and running, follow these steps:
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
+
 ### Usage
 1. Run the Jupyter Notebook
    Only run the Streamlit header!(to avoid training the model)
 2. Running the Streamlit App: Start the Streamlit application to interactively test the model and visualize results.
+3. Copy the your external IP address using the wget command.
+  ```sh
+   !wget -q -O - ipv4.icanhazip.com
+  ```
+ It retrieves your external IP address.
+ 
+4. 
+   ```sh
+   !streamlit run app.py &
+  ```
+runs the Streamlit app in the background.
+```sh
+!npx localtunnel --port 8501
+```
+uses npx localtunnel to expose the locally running Streamlit app to the internet. 
+The app is hosted on port 8501, and localtunnel provides a public URL through which the app can be accessed.
+![image](https://github.com/user-attachments/assets/cdb95a07-03c6-484d-8783-794a5b746e0c)
 
+5. Open the url link
+![Screenshot (212)](https://github.com/user-attachments/assets/d2155717-1c15-4dde-8b8c-b926f41ca8e7)
+Paste your IP address and submit.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ROADMAP -->
+
 ### Roadmap
 
 - Improve video preprocessing pipeline
@@ -146,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ### Contact
 
-sarthak Bhardwaj - [@your_twitter_handle](https://x.com/Sarthak1102) - sarthak.bhardwaj21b@iiitg.ac.in
+Sarthak Bhardwaj - [@Sarthak1102](https://x.com/Sarthak1102) - sarthak.bhardwaj21b@iiitg.ac.in
 
 Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/SarthakB11/LipReadingApp)
 
@@ -163,11 +185,4 @@ Project Link: [https://github.com/SarthakB11/LipReadingApp](https://github.com/S
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
-
-[Streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[Streamlit-url]: https://streamlit.io/
-[ImageIO]: https://img.shields.io/badge/ImageIO-FF8C00?style=for-the-badge&logo=python&logoColor=white
-[ImageIO-url]: https://imageio.readthedocs.io/
-[Matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white
-[Matplotlib-url]: https://matplotlib.org/
 
